@@ -14,6 +14,8 @@ import random
 -每轮结束显示玩家信息
 -按q退出游戏
 """
+print('welcome!')
+
 target = 21
 
 # 游戏开始先输入名字
